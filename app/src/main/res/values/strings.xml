@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">businesscard</string>
+    <string name="phone_number" translatable="false">7560891748</string>
+    <string name="email_text">analraj2002@gmail.com</string>
+    <string name="share_text" translatable="false">Click to share</string>
+    <string name="name_surname" translatable="false">Analraj V</string>
+    <string name="business">Student</string>
+</resources>
